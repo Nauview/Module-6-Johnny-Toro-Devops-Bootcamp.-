@@ -32,3 +32,7 @@ I was also able to see that I could create cleanup policies, like the one with t
 
 ![Cleanup Policies](/assets/images/Cleanup%20policy..png)\
 
+I was also able to query the repository using the REST api. For example, wiht this get request I was able to see the repos that my user can see. 
+
+![Query](/assets/images/Restquery.png)
+
